@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.rubygems_version = '1.3.5'
 
-  s.name              = 'chronic'
-  s.version           = '0.3.0'
+  s.name              = 'castiglione-chronic'
+  s.version           = '0.3.1b'
   s.date              = '2010-10-22'
   s.rubyforge_project = 'chronic'
 
